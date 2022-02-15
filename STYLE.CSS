@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(185, 214, 240);
+  font-family: inherit;
+  align-items: center;
+  position: inherit;
+  list-style: circle;
+}
